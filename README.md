@@ -2,10 +2,15 @@
 
 <h1 align="center">
     业精于勤，荒于嬉；行成于思，毁于随。
-    <img src="https://github-readme-stats.vercel.app/api?username=gopherWxf&show_icons=true&theme=radical">
 </h1>
-
-
+<div align="center">
+    <a href="https://gopher.blog.csdn.net/">
+        <img width="495px" height="195px" src="https://stats.justsong.cn/api/csdn?id=qq_42956653&theme=dark">
+    </a>
+    <a href="https://gopher.blog.csdn.net/">
+	<img src="https://github-readme-stats.vercel.app/api?username=gopherWxf&show_icons=true&theme=radical">
+	</a>
+</div>
 
 <!-- 个人资料徽标 -->
 
@@ -66,7 +71,6 @@
 
 <!-- just img -->
 <div align="left"><img src="https://github.com/gopherWxf/gopherWxf/blob/master/gopherbg.png" /></div>
-
 
 
 

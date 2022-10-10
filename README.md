@@ -20,7 +20,7 @@
   <a href="https://juejin.cn/user/3259393012930264/"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-brightgreen"></a>&emsp;
   <a href="https://www.zhihu.com/people/gopherwxf/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-yellow"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=gopherWxf" alt="访客统计" />
+ <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=gopherWxf" alt="访客统计" /> -->
 </div>
 
 <!-- 比较好的开源项目卡片 -->

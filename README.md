@@ -3,7 +3,7 @@
 <h1 align="center">
     业精于勤，荒于嬉；行成于思，毁于随。
 </h1>
-<div align="center">
+<!-- <div align="center">
     <a href="https://gopher.blog.csdn.net/">
         <img src="https://stats.justsong.cn/api/csdn?id=qq_42956653&theme=dark">
     </a>
@@ -11,32 +11,11 @@
     <a href="https://github.com/gopherWxf/">
 	<img src="https://github-readme-stats.vercel.app/api?username=gopherWxf&show_icons=true&theme=radical">
     </a>
-</div>
+</div> -->
 
-<!-- 个人资料徽标 -->
 
-<div align="center">
-  <a href="https://gopher.blog.csdn.net/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://juejin.cn/user/3259393012930264/"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-brightgreen"></a>&emsp;
-  <a href="https://www.zhihu.com/people/gopherwxf/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-yellow"></a>&emsp;
-<!-- 访客数统计徽标 -->
- <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=gopherWxf" alt="访客统计" /> -->
-</div>
 
-<!-- 比较好的开源项目卡片 -->
-<div align="center">
 
-<a href="https://github.com/gopherWxf/tinykv">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopherWxf&repo=tinykv&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/gopherWxf/image-hosting-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopherWxf&repo=image-hosting-service&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-
-<a href="https://github.com/gopherWxf/OSS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopherWxf&repo=OSS&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/gopherWxf/c-c-linux-LearningCode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopherWxf&repo=c-c-linux-LearningCode&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-  
-</div>
 
 
 <!-- 最近博客 -->
@@ -78,6 +57,31 @@
 </tr>
 </table>
 
+
+<!-- 比较好的开源项目卡片 -->
+<div align="center">
+
+<a href="https://github.com/gopherWxf/tinykv">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopherWxf&repo=tinykv&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/gopherWxf/image-hosting-service">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopherWxf&repo=image-hosting-service&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+
+<a href="https://github.com/gopherWxf/OSS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopherWxf&repo=OSS&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/gopherWxf/c-c-linux-LearningCode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gopherWxf&repo=c-c-linux-LearningCode&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  
+</div>
+
+
+<!-- 个人资料徽标 -->
+<div align="center">
+  <a href="https://gopher.blog.csdn.net/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://juejin.cn/user/3259393012930264/"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-brightgreen"></a>&emsp;
+  <a href="https://www.zhihu.com/people/gopherwxf/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-yellow"></a>&emsp;
+<!-- 访客数统计徽标 -->
+ <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=gopherWxf" alt="访客统计" /> -->
+</div>
 <!-- just img -->
 <div align="left"><img src="https://github.com/gopherWxf/gopherWxf/blob/master/gopherbg.png" /></div>
 
